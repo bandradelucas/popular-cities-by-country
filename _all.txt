@@ -1,0 +1,976 @@
+Antwerp
+Leuven
+Mechelen
+City of Brussels
+Mons
+Ostend
+Ypres
+Hasselt
+Tournai
+Dinant
+Kortrijk
+Aalst
+Knokke-Heist
+Genk
+Waterloo
+Sint-Niklaas
+Vilvoorde
+Tongeren
+Durbuy
+Lier, Belgium
+Halle
+Verviers
+La Louvière
+Bastogne
+Arlon
+Roeselare
+Wavre
+Binche
+Sint-Truiden
+Eupen
+Seraing
+Tienen
+Dendermonde
+Sint-Jans-Molenbeek
+Malmedy
+Oudenaarde
+Turnhout
+Geel
+Bouillon
+Braine-l'Alleud
+Mouscron
+Ninove
+Ath
+Châtelet
+Geraardsbergen
+Phnom Penh
+Siem Reap
+Angkor
+Sihanoukville
+Battambang
+Kampot
+Krong Ta Khmau District
+Pailin Province
+Serei Saophoan
+Poipet
+Suong
+Chbar Mon
+Kampong Cham
+Senmonorom
+Samraong
+Stueng Saen District
+Doun Kaev
+Phnom Tbeng Meanchey
+Bavet
+Kratié
+Khemarak Phoumin
+Oudong
+Neak Loeung
+Phnom Srok District
+Mahendraparvata
+Banlung
+Thma Puok District
+Mongkol Borey District
+Sre Ambel
+Pursat
+Skuon
+Chbar Mon District
+Banteay Chhmar
+Samraong, Banteay Meanchey
+Cheom Ksan
+Kampong Chhnang
+Doun Kaev District
+Amleang
+Dăm Thnăm
+Khŭm Sráng
+Rôméas
+Bokor Hill Station
+Kdol Doun Teav
+Kampong Trach District
+Kep
+Svay Rieng
+Koulen
+Kampong Phluk
+Memot District
+Tbaeng Meanchey District
+Serei Saophoan District
+Beijing
+Shanghai
+Guangzhou
+Hangzhou
+Tianjin
+Chengdu
+Xi'an
+Suzhou
+Wuhan
+Hong Kong
+Zhengzhou
+Shenyang
+Xiamen
+Kunming
+Guilin
+Macau
+Jinan
+Foshan
+Pearl River Delta
+Fuzhou
+Nanning
+Yantai
+Dubrovnik
+Split
+Zagreb
+Zadar
+Pula
+Šibenik
+Osijek
+Trogir
+Vukovar
+Varaždin
+Poreč
+Knin
+Sisak
+Karlovac
+Solin
+Sinj
+Umag
+Opatija
+Slavonski Brod
+Makarska
+Vodnjan
+Novalja
+Koprivnica
+Samobor
+Zaprešić
+Korčula
+Motovun
+Požega
+Čakovec
+Hvar
+Omiš
+Zabok
+Krapina
+Bjelovar
+Vinkovci
+Slano
+Đakovo
+Gospić
+Klis
+Virovitica
+Stari Grad
+Klek, Croatia
+Vrbovsko
+Kraljevečki Novaki
+Pasjak
+Karakašica
+Zambratija
+Karigador
+Kuče
+Popovača
+Cairo
+Alexandria
+Luxor
+Giza
+Asyut
+Hurghada
+Memphis
+Faiyum
+Edfu
+Mansoura, Egypt
+Suez
+Thebes
+Port Said
+Beni Suef
+El Mahalla El Kubra
+Damanhur
+Heracleion
+Zagazig
+Minya
+Kom Ombo
+Banha
+Arish
+Amarna
+Sharm El Sheikh
+Rosetta
+Sohag
+Abydos, Egypt
+Avaris
+Shubra El Kheima
+Shibin El Kom
+Mersa Matruh
+Kharga Oasis
+Girga
+Damietta
+Kafr El Sheikh
+Desouk
+Mallawi
+Naqada
+Greater Cairo
+Ismailia
+Sais
+Bilbeis
+10th of Ramadan
+New Cairo
+Safaga
+Heliopolis
+Qalyub
+Paris
+Marseille
+Lyon
+Avignon
+Cannes
+Aix-en-Provence
+Rouen
+Angers
+Annecy
+Colmar
+Carcassonne
+Antibes
+La Rochelle
+Saint-Malo
+Poitiers
+Ajaccio
+Calais
+Arles
+Versailles, Yvelines
+Chambéry
+Pau, Pyrénées-Atlantiques
+Troyes
+Dunkirk
+Frankfurt
+Trier
+Würzburg
+Weimar
+Bamberg
+Rothenburg ob der Tauber
+Thessaloniki
+Corinth
+Chania
+Thebes
+Chalcis
+Volos
+Nafplio
+Rethymno
+Argos
+Kalamata
+Sparta, Peloponnese
+Kavala
+Ioannina
+Delphi
+Lamia
+Rhodes
+Megara
+Alexandroupoli
+Eleusis
+Agrinio
+Nafpaktos
+Agios Nikolaos
+Tripoli
+Olympia
+Xanthi
+Kozani
+Komotini
+Veria
+Serres
+Preveza
+Edessa
+Corfu
+Pylos
+Aigio
+Epidaurus
+Orestiada
+Ierapetra
+Missolonghi
+Lindos
+Livadeia
+Trikala
+Katerini
+Argyroupoli
+Karditsa
+Oia
+Mumbai
+Bengaluru
+Chennai
+Kolkata
+Hyderabad
+Ahmedabad
+Pune
+Jaipur
+New Delhi
+Kochi
+Chandigarh
+Bhopal
+Surat
+Lucknow
+Bhubaneswar
+Indore
+Nagpur
+Patna
+Agra
+Ludhiana
+Thiruvananthapuram
+Kanpur
+Coimbatore
+Gurugram
+Guwahati
+Varanasi
+Allahabad
+Amritsar
+Vadodara
+Vijayawada
+Mysore
+Raipur
+Srinagar
+Ranchi
+Mangalore
+Madurai
+Tiruchirappalli
+Dehradun
+Jamshedpur
+Shimla
+Udaipur
+Pondicherry
+Jabalpur
+Aurangabad
+Noida
+Faridabad
+Florence
+Milan
+Genoa
+Turin
+Pisa
+Amalfi
+Siena
+Lucca
+Bari
+Sorrento
+Trieste
+Matera
+Mantua
+Positano
+Vatican City
+Pompeii
+San Gimignano
+Lecce
+Ancona
+Salerno
+Brescia
+Assisi
+Pistoia
+Cremona
+Caserta
+Ravello
+Herculaneum
+Portofino
+Taormina
+Tokyo
+Kyoto
+Yokohama
+Sapporo
+Fukuoka
+Sendai
+Nara
+Nagasaki
+Kawasaki
+Kanazawa
+Okayama
+Hamamatsu
+Kagoshima
+Himeji
+Hakodate
+Shibuya
+Shinjuku
+Naha
+Niigata
+Kumamoto
+Shimonoseki
+Toyama
+Takamatsu
+Kamakura
+Tokyo
+Utsunomiya
+Takayama
+Shizuoka
+Kurashiki
+Toyota
+Matsumoto
+Matsue
+Toyohashi
+Kofu
+Kure
+Maebashi
+Hakone
+Okazaki
+Sasebo
+Sakai
+Kawagoe
+Tsukuba
+Fukuyama
+Mito
+Marrakesh
+Fes
+Casablanca
+Rabat
+Tangier
+Meknes
+Chefchaouen
+Essaouira
+Agadir
+Tétouan
+Ouarzazate
+Volubilis
+Ifrane
+Salé
+Kenitra
+Asilah
+Oujda
+Beni Mellal
+El Jadida
+Merzouga
+Nador
+Safi
+Al Hoceima
+Aït Benhaddou
+Taroudant
+Tiznit
+Settat
+Azrou
+Moulay Idriss Zerhoun
+Taza
+Mohammedia
+Tafraout
+Ksar el-Kebir
+Midelt
+Guelmim
+El-Aaiún
+Larache
+Ouazzane
+Khemisset
+Taourirt, Morocco
+Erfoud
+Khouribga
+Sidi Ifni
+Khenifra
+Errachidia
+Melilla
+Berrechid
+Martil
+Khamlia
+Guercif
+Sidi Slimane, Morocco
+Delft
+Almere
+Leeuwarden
+Gouda, South Holland
+Alkmaar
+Lelystad
+Venlo
+Middelburg
+Assen
+Deventer
+Best, Netherlands
+Zutphen
+Flushing
+Zoetermeer
+Zaanstad
+Harlingen
+Hoorn
+Volendam
+Naarden
+Heerlen
+Kampen, Overijssel
+Purmerend
+Sneek
+Haarlemmermeer
+Schiedam
+Helmond
+Wageningen
+Roermond
+Rijswijk
+Goes
+Roosendaal
+Vlaardingen
+Lima
+Cusco
+Arequipa
+Chiclayo
+Ayacucho
+Nazca
+Puerto Maldonado
+Tumbes, Peru
+Huancavelica
+Chachapoyas
+Talara
+Chan Chan
+Cerro de Pasco
+Abancay
+Ollantaytambo
+Tingo María
+Miraflores District, Lima
+Moyobamba
+Huacho
+Paita
+Moquegua
+Peru
+Yurimaguas
+Tarma
+Ilo, Peru
+Písac
+Paracas
+Sicuani
+Chancay
+Mollendo
+Chulucanas
+Huaral
+Máncora
+Coimbra
+Braga
+Guimarães
+Sintra
+Municipality of Évora
+Faro
+Aveiro Municipality
+Cascais
+Lagos
+Tavira
+Vila Nova de Gaia
+Viana do Castelo
+Albufeira
+Tomar
+Setúbal
+Óbidos, Portugal
+Silves, Portugal
+Fátima
+Peniche, Portugal
+Sesimbra
+Leiria
+Portimão
+Viseu
+Almada
+Matosinhos
+Ponta Delgada
+Lamego
+Elvas
+Castelo Branco, Portugal
+Olhão
+Póvoa de Varzim
+Bragança, Portugal
+Portalegre, Portugal
+Odivelas
+Guarda, Portugal
+Figueira da Foz
+Chaves, Portugal
+Vila Franca de Xira
+Alcobaça, Portugal
+Vila Real de Santo António
+Nazaré Municipality
+Covilhã
+Loures
+Vila Real
+Sagres
+Palmela
+Estoril
+Moscow
+Nizhny Novgorod
+Rostov-on-Don
+Samara
+Novosibirsk
+Krasnoyarsk
+Barnaul
+Khabarovsk
+Murmansk
+Kaluga
+Tyumen
+Makhachkala
+Cape Town
+Bloemfontein
+East London
+Rustenburg
+Kimberley, Northern Cape
+Polokwane, Limpopo
+Nelspruit
+City of Tshwane Metropolitan Municipality
+Stellenbosch
+George
+Mahikeng
+Knysna
+Potchefstroom
+Benoni, Gauteng
+Mthatha
+Grahamstown
+Sasolburg, Free State
+Paarl
+Secunda, Mpumalanga
+Mossel Bay
+Uitenhage, Eastern Cape
+Welkom
+Plettenberg Bay
+Klerksdorp
+Bhisho
+Thohoyandou
+Vanderbijlpark
+Brits
+Krugersdorp
+Phalaborwa
+Newcastle
+Upington
+Worcester
+Centurion
+Hermanus, Western Cape
+Graaff-Reinet
+Carletonville
+Richards Bay
+Ladysmith
+Mmabatho
+Kroonstad
+Jeffreys Bay
+Lichtenburg, North West
+Madrid
+Barcelona
+Seville
+Valencia
+Málaga
+Granada
+Bilbao
+Córdoba
+Donostia / San Sebastián
+Toledo
+Salamanca
+Santiago de Compostela
+Zaragoza
+Cádiz
+Segovia
+Alicante
+Palma, Majorca
+Pamplona
+Ronda
+Tarragona
+Jerez de la Frontera
+Oviedo
+A Coruña
+Logroño
+Murcia
+Burgos
+Girona
+Mérida
+Valladolid
+Marbella
+Las Palmas
+Ávila, Spain
+Gijón
+Ceuta
+Melilla
+Almería
+Vigo
+Huelva
+Vitoria-Gasteiz
+León
+Cáceres
+Santa Cruz de Tenerife
+Lleida
+Cuenca
+Jaén
+Cartagena, Spain
+Alcalá de Henares
+Elche
+Santander
+Castellón de la Plana
+Sitges
+Bangkok
+Chiang Mai
+Pattaya
+Chiang Rai
+Hat Yai
+Hua Hin District
+Nakhon Si Thammarat
+Khon Kaen
+Phra Nakhon Si Ayutthaya
+Phuket City
+Nakhon Ratchasima
+Pai
+Kanchanaburi
+Pak Kret
+Songkhla
+Ubon Ratchathani
+Su-ngai Kolok
+Nakhon Pathom
+Ao Nang
+Surat Thani
+Nonthaburi
+Chonburi
+Rangsit, Thailand
+Si Racha
+Nan
+Aranyaprathet
+Fang
+Chiang Dao Subdistrict
+Mae Sot
+Om Noi
+Mueang Chiang Mai District
+Map Ta Phut
+Trang, Thailand
+Betong
+Nakhon Sawan
+Ban Khlong
+Udon Thani
+Hua Hin
+Yala
+Samut Prakan
+Takhli
+Chaiya District
+Chumphon
+Mae Sariang District
+Phra Bat
+Nong Khai
+Istanbul
+İzmir
+Ankara
+Antalya
+Bursa
+Gaziantep
+Adana
+Konya
+Fethiye
+Alanya
+Ephesus
+Bodrum
+Trabzon
+Mersin
+Kayseri
+Diyarbakır
+Marmaris
+Kuşadası
+Amasya
+Samsun
+Çeşme
+İzmit
+Göreme
+Antakya
+İskenderun
+Eskişehir
+Derinkuyu
+Mardin
+Van
+Tarsus
+Adapazarı
+Çanakkale
+Troy
+Batman
+Ayvalık
+İznik
+Denizli
+Malatya
+Kaş
+Edirne
+Ürgüp
+Safranbolu
+Kemer
+Urfa
+Erzurum
+Pergamon
+Sivas
+Demre
+Rize
+Zonguldak
+Dubai
+Abu Dhabi
+Sharjah
+Fujairah
+Ajman
+Al Ain
+Ras al-Khaimah
+Umm al-Quwain
+Ras Al-Khaimah
+Khor Fakkan
+Jebel Ali
+Hatta
+Ruwais
+Masdar City
+Umm Al Quwain
+Dhaid
+Kalba
+Dibba Al-Hisn
+Zayed Port
+Fujairah
+Manama, Ajman
+Mussafah
+Dibba
+Mileiha
+Sila, Abu Dhabi
+Al Hamriyah
+Masfut
+Falaj Al-Mu'alla
+Madinat Zayed
+Al Fahlayn
+Qutuf
+Al Jahar
+Al Hamidiyah, Ajman
+Daftah
+Al Hamraniyah
+Al Bithnah
+Al Heera
+Ash Sha'm
+Hayl
+Global Village
+Al Khari
+Swaihan
+Hamim
+Al Jazirah Al Hamra
+Lahbab
+Ghayathi
+Al Badiyah
+Dadna
+Al Khan
+Khatt
+Al Mataf
+London
+Manchester
+Birmingham
+Glasgow
+Edinburgh
+Liverpool
+City of London
+Belfast
+Cardiff
+Bristol
+Leeds
+Newcastle upon Tyne
+Sheffield
+Nottingham
+Oxford
+York
+Brighton
+Cambridge
+Aberdeen
+Portsmouth
+Southampton
+Leicester
+Coventry
+Swansea
+Norwich
+Kingston upon Hull
+Plymouth
+Dundee
+Stoke-on-Trent
+Reading
+Bath
+Wolverhampton
+Exeter
+Derby
+Derry
+Newport
+Chester
+Bradford
+Inverness
+Bournemouth
+Preston
+Blackpool
+Peterborough
+Middlesbrough
+Greater Manchester
+Durham, England
+Lincoln
+Worcester
+Perth
+Brighton and Hove
+Salisbury
+New York City
+San Francisco
+Washington, D.C.
+Chicago
+Boston
+Los Angeles
+Seattle
+Austin
+Philadelphia
+Houston
+Dallas
+San Diego
+San Jose
+Denver
+New Orleans
+Baltimore
+Detroit
+San Antonio
+Atlanta
+Nashville
+Phoenix
+Portland
+Indianapolis
+Miami
+Las Vegas
+Memphis
+Charlotte
+Fort Worth
+Honolulu
+Kansas City
+Minneapolis
+Milwaukee
+Jacksonville
+St. Louis
+Columbus
+Albuquerque
+Pittsburgh
+Cleveland
+Oklahoma City
+Sacramento
+Orlando
+Tucson
+Omaha
+Anchorage
+Raleigh
+Oakland
+Boise
+Colorado Springs
+El Paso
+Tulsa
+Ho Chi Minh City
+Hanoi
+Da Nang
+Hue
+Nha Trang
+Hội An
+Haiphong
+Da Lat
+Can Tho
+Vũng Tàu
+Biên Hòa
+Phan Thiet
+Sa Pa
+Buon Ma Thuot
+Qui Nhơn
+Vinh
+Mỹ Tho
+Hạ Long
+Cam Ranh
+Mũi Né
+Rạch Giá
+Pleiku
+Tuy Hòa
+Long Xuyên
+Điện Biên Phủ
+Cao Lãnh
+Đồng Hới
+Phan Rang–Tháp Chàm
+Thủ Dầu Một
+Đông Hà
+Châu Đốc
+Phủ Lý
+Bảo Lộc
+Viet Tri
+Tân An, Long An Province
+Lạng Sơn
+Móng Cái
+Vi Thanh city
+Vĩnh Yên
+Tam Kỳ
+Cẩm Phả
+Sa Đéc
+Uông Bí
+Bà Rịa
+Lào Cai
+Thai Nguyen
+Đồng Xoài
+Mai Châu District
+Hà Tiên
+La Gi
+Tây Ninh

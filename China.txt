@@ -1,0 +1,22 @@
+Beijing
+Shanghai
+Guangzhou
+Hangzhou
+Tianjin
+Chengdu
+Xi'an
+Suzhou
+Wuhan
+Hong Kong
+Zhengzhou
+Shenyang
+Xiamen
+Kunming
+Guilin
+Macau
+Jinan
+Foshan
+Pearl River Delta
+Fuzhou
+Nanning
+Yantai

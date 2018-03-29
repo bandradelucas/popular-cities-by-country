@@ -1,0 +1,51 @@
+London
+Manchester
+Birmingham
+Glasgow
+Edinburgh
+Liverpool
+City of London
+Belfast
+Cardiff
+Bristol
+Leeds
+Newcastle upon Tyne
+Sheffield
+Nottingham
+Oxford
+York
+Brighton
+Cambridge
+Aberdeen
+Portsmouth
+Southampton
+Leicester
+Coventry
+Swansea
+Norwich
+Kingston upon Hull
+Plymouth
+Dundee
+Stoke-on-Trent
+Reading
+Bath
+Wolverhampton
+Exeter
+Derby
+Derry
+Newport
+Chester
+Bradford
+Inverness
+Bournemouth
+Preston
+Blackpool
+Peterborough
+Middlesbrough
+Greater Manchester
+Durham, England
+Lincoln
+Worcester
+Perth
+Brighton and Hove
+Salisbury
